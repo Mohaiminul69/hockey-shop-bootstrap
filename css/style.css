@@ -16,6 +16,10 @@ body {
   border-style: dashed !important;
 }
 
+.bg-gray {
+  background: #f6f6f6;
+}
+
 .progress {
   width: 150px;
   height: 150px !important;
