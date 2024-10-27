@@ -12,6 +12,10 @@ body {
   background-position: center;
 }
 
+.border-dashed {
+  border-style: dashed !important;
+}
+
 .progress {
   width: 150px;
   height: 150px !important;
