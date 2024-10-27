@@ -6,6 +6,12 @@ body {
   color: #dc3545;
 }
 
+.gradient-overlay {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.8));
+  background-size: cover;
+  background-position: center;
+}
+
 .progress {
   width: 150px;
   height: 150px !important;
